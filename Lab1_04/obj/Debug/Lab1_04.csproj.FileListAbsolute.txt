@@ -1,6 +1,0 @@
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\bin\Debug\Lab1_04.exe
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\bin\Debug\Lab1_04.pdb
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\obj\Debug\Lab1_04.csprojAssemblyReference.cache
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\obj\Debug\Lab1_04.csproj.CoreCompileInputs.cache
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\obj\Debug\Lab1_04.exe
-C:\Users\BTD\RiderProjects\HelloWorld\Lab1_04\obj\Debug\Lab1_04.pdb
