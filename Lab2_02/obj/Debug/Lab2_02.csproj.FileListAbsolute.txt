@@ -1,0 +1,6 @@
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\bin\Debug\Lab2_02.exe
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\bin\Debug\Lab2_02.pdb
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\obj\Debug\Lab2_02.csprojAssemblyReference.cache
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\obj\Debug\Lab2_02.csproj.CoreCompileInputs.cache
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\obj\Debug\Lab2_02.exe
+C:\Users\BTD\RiderProjects\HelloWorld\Lab2_02\obj\Debug\Lab2_02.pdb
